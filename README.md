@@ -1,2 +1,2 @@
 # Bond_Price
-Computing Bond Price using Python
+Computing Bond Price and Mod & Mac Duration using Python
